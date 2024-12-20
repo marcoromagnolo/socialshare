@@ -1,0 +1,7 @@
+flask
+flask-cors
+Flask-API
+Flask-SQLAlchemy
+cryptography
+mysql-connector-python
+schedule
